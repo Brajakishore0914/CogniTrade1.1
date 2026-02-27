@@ -1,1 +1,0 @@
-# CogniTrade1.1

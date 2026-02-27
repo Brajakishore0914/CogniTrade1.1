@@ -1,0 +1,8 @@
+Checking tables for Supabase URL: https://hbcatlncpedqsagmozxp.supabase.co
+Table 'users': 0 records found.
+Table 'portfolios': 0 records found.
+Error checking table 'predictions': {'message': "Could not find the table 'public.predictions' in the schema cache", 'code': 'PGRST205', 'hint': "Perhaps you meant the table 'public.stock_predictions'", 'details': None}
+Error checking table 'quiz_scores': {'message': "Could not find the table 'public.quiz_scores' in the schema cache", 'code': 'PGRST205', 'hint': "Perhaps you meant the table 'public.quizzes'", 'details': None}
+Table 'paper_positions': 1 records found.
+Table 'paper_trades': 0 records found.
+Table 'cash_ledger': 0 records found.
